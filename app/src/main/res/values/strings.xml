@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PortFolio App</string>
+
+    <string name="amogh_saxena">Amogh Saxena</string>
+    <string name="full_stack_developer_and_youtuber">Full Stack Developer and Youtuber</string>
+    <string name="darkmode">DarkMode</string>
+    <string name="skills">Skills</string>
+    <string name="experience">Experience</string>
+    <string name="achievements">Certification</string>
+    <string name="education">Education</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="todo">TODO</string>
+    <string name="list_of_skills">List of skills</string>
+    <string name="geeksforgeeks">GeeksForGeeks</string>
+    <string name="march_2023">March - 2023</string>
+    <string name="_1">1</string>
+    <string name="mern_stack_developement">Mern Stack Development</string>
+    <string name="_2_years">2 years</string>
+    <string name="contact_me">Contact Me</string>
+    <string name="full_name">Full Name</string>
+    <string name="message">Message</string>
+    <string name="submit">Submit</string>
+    <string name="email_address">Email Address</string>
+    <string name="insta">TODO</string>
+    <string name="linkedin">TODO</string>
+    <string name="primary_education">Primary Education</string>
+    <string name="nalanda_public_school">Nalanda Public School</string>
+    <string name="jabalpur_mp">Jabalpur, MP</string>
+    <string name="_8_80_cgpa">8.80 CGPA</string>
+    <string name="secondary_education">Secondary Education</string>
+    <string name="_2017_2018">2017 - 2018</string>
+    <string name="your_secondary_school_name">Your Secondary School Name</string>
+    <string name="your_secondary_education_grade">Your Secondary Education Grade</string>
+    <string name="location_of_secondary_school">Location of Secondary School</string>
+    <string name="year_of_secondary_education">Year of Secondary Education</string>
+    <string name="maharashtra_high_school">Maharashtra High School</string>
+    <string name="_8_85_cgpa">8.85 CGPA</string>
+    <string name="_2019_2020">2019 - 2020</string>
+</resources>
